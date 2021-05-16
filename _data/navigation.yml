@@ -11,18 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
+    - title: "Posts"
+      section: post
+    - title: "About me"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "My github"
+      url: https://github.com/coriander345/coriander345.github.io
 en-US:
   <<: *DEFAULT_EN
 en-CA:
