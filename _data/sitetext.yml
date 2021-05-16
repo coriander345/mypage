@@ -13,7 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Coriander Blog!
     text: It's Nice To Meet You
-    
+    button: post
+    buttonlink: "#services"
 
   services:
     title: "My first Blog"
