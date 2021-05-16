@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "https://user-images.githubusercontent.com/77090941/118407136-41db5e80-b6ba-11eb-95a5-ba805983169a.jpg"
+header-image: "https://user-images.githubusercontent.com/77090941/118407373-74398b80-b6bb-11eb-97a5-9666d96e1a89.png"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
