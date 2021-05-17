@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "My first Blog"
     text: "I made this to study Coding, programming and also want to improve my English skill"
     section: services
-    list: "My Coding tools"
+    list: 
       - title: "MDN"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
