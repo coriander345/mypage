@@ -13,6 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Posts"
       section: service
+      url: https://github.com/coriander345/coriander345.github.io/tree/main/_posts
     - title: "About me"
       section: timeline
     - title: "Contact"
