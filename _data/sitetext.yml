@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "Youtube"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-  {{ site.data.ui-text[site.locale]._posts | default: 'text' }}
+  
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
