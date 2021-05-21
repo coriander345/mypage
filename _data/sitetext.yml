@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-wrench #find more at https://fontawesome.com/icons
       - title: "W3school"
         desc: "W3Schools is a freemium educational website for learning coding online. W3Schools has educational content on many computer languages. \ i think W3school is really useful when i find words that i remember vaguely"
-        icon: assets/img/portfolio/w3s-logo-256_180x.png
+        icon: fas fa-toolbox
       - title: "Youtube"
         desc: "Actually i don't really watch youtube video because it take a long time i uderstand it and hard to find informations what i really want but some time you really need to watch it to understand some ideas and conceptions"
-        icon: assets/img/portfolio/youtube-logo-illustration-958x575.jpg
+        icon: fas fa-tools
   
   portfolio:
     title: "Posts"
