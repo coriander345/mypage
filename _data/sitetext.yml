@@ -14,39 +14,39 @@ en: &DEFAULT_EN
     title: Welcome to Coriander Blog!
     text: It's Nice To Meet You
     button: post
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "My first Blog"
-    text: "I made this to study Coding, programming and also want to improve my English skill"
+    text: "I build this to study Coding, programming and also want to improve my English skill"
     section: services
     list: 
       - title: "MDN"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "The MDN Web Docs site provides information about Open Web technologies- i usally check methods and keywords in MDN similiar with W3school but more specific i guess"
+        icon: assets/img/portfolio/mdn-web-docs-vector-logo.png #find more at https://fontawesome.com/icons
       - title: "W3school"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "W3Schools is a freemium educational website for learning coding online. W3Schools has educational content on many computer languages. \ i think W3school is really useful when i find words that i remember vaguely"
+        icon: assets/img/portfolio/w3s-logo-256_180x.png
       - title: "Youtube"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Actually i don't really watch youtube video because it take a long time i uderstand it and hard to find informations what i really want but some time you really need to watch it to understand some ideas and conceptions"
+        icon: assets/img/portfolio/youtube-logo-illustration-958x575.jpg
   
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Posts"
+    text: "This is my posts! take a look"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "About me"
+    text: "My name is Jun Won Jae. i'm korean"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: ""
+        year: ""
+        desc: ""
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
