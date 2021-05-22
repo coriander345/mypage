@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Coriander Blog!
     text: It's Nice To Meet You
-    button: post
+    button: posts
     buttonlink: "#portfolio"
 
   services:
-    title: "My first Blog"
-    text: "I build this to study Coding, programming and also want to improve my English skill"
+    title: "My Tools"
+    text: "I have tools that help me to learn more about Coding"
     section: services
     list: 
       - title: "MDN"
