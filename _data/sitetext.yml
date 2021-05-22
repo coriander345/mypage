@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Posts"
     text: "This is my posts! take a look"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Post"
 
   timeline:
     title: "About me"
