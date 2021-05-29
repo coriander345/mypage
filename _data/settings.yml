@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Coriander Blog
-logo: leaf-outline # You can add own logo.
+logo: "leaf-outline" # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
