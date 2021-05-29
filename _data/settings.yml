@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Coriander Blog
-logo: fab fa-pagelines # You can add own logo.
+logo: <ion-icon name="leaf-outline"></ion-icon> # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
