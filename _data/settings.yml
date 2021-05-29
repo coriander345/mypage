@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
+title: Coriander Blog
+logo: "leaf-outline" # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
@@ -10,9 +10,8 @@ description: Zolan is modern minimal theme for Jekyll
 author:
   name: Alex Rodriguez
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  say-hello: Welcome to <strong>Coriander Blog</strong>
+  bio: Coding and boarding, i am learning code and Bloging about coding. I am South Korean but want to use English because i want to improve it. And i like skateboading  
 
 #-------------------------------
 # Contact links
